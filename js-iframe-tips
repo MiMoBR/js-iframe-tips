@@ -1,0 +1,3 @@
+-- if need clean ou empty a iframe ---
+
+document.getElementById('htmlPreview_393').src = "about:blank";
